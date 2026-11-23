@@ -13,4 +13,5 @@ elif media >= 5.0:
 else:
     print("Situação: voce esta reprovado.")
 
+print("ola mundo")
 
